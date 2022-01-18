@@ -8,7 +8,7 @@
 ・RaspberryPi3B+　×　1
 
 # 著作権者
-Sogo Matsunaga　& Ryuichi Ueda
+Sogo Matsunaga & Ryuichi Ueda
 
 # youtubeのリンク
 https://youtu.be/QSkSLL_na3I
